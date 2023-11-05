@@ -6,7 +6,7 @@
 - GIN (FRAMEWORK GO)
 - AIR (RUNTIME ENVIRONMENT)
 
-## Configurar un nuevo proyecto web en Go y utilizar un enrutador web como "gin" o "echo".**
+## Configurar un nuevo proyecto web en Go y utilizar un enrutador web como "gin" o "echo".
     - Tareas:
         - [X] Crear una nueva estructura de proyecto Go.
         - [X] Instalar y configurar el enrutador web (por ejemplo, Gin o Echo).
@@ -18,7 +18,7 @@
         - Configuración básica del proyecto y enrutamiento simple.
     - Máximo Recomendado:
         - Configuración avanzada del proyecto con manejo de configuración, middleware y enrutamiento más complejo.
-## Crear rutas para diferentes páginas, como la página de inicio y la página de contacto.**
+## Crear rutas para diferentes páginas, como la página de inicio y la página de contacto.
     - Tareas:
         - [X] Definir rutas y controladores para la página de inicio y la página de contacto.
         - [] Crear páginas de inicio y contacto (plantillas HTML o generación de HTML).
@@ -28,7 +28,7 @@
         - Rutas básicas para la página de inicio y contacto.
     - Máximo Recomendado:
         - Implementar un sistema de gestión de rutas más complejo y flexible.
-## Utilizar plantillas HTML para renderizar páginas web y mostrar información dinámica, como un mensaje de bienvenida o una lista de productos.**
+## Utilizar plantillas HTML para renderizar páginas web y mostrar información dinámica, como un mensaje de bienvenida o una lista de productos.
     - Tareas:
         - [] Crear plantillas HTML para la página de inicio y la página de contacto.
         - [] Renderizar contenido dinámico (como mensajes de bienvenida) en las plantillas.
@@ -39,7 +39,7 @@
         - Plantillas básicas y contenido dinámico.
     - Máximo Recomendado:
         - Plantillas sofisticadas con un diseño atractivo y dinámico.
-## Desarrollar un formulario de contacto que permita a los usuarios enviar su nombre, correo electrónico y mensaje a través de la aplicación.**
+## Desarrollar un formulario de contacto que permita a los usuarios enviar su nombre, correo electrónico y mensaje a través de la aplicación.
     - Tareas:
         - [] Crear un formulario HTML para la página de contacto.
         - [] Implementar controladores que gestionen el envío del formulario.
@@ -50,7 +50,7 @@
         - Formulario básico con funcionalidad de envío.
     - Máximo Recomendado:
         - Validación avanzada y características de seguridad para proteger la aplicación contra ataques.
-## Implementar enrutamiento dinámico para mostrar detalles de un producto específico o contenido personalizado basado en la URL solicitada.**
+## Implementar enrutamiento dinámico para mostrar detalles de un producto específico o contenido personalizado basado en la URL solicitada.
     - Tareas:
         - [] Diseñar una estructura de datos para gestionar detalles de productos o contenido personalizado.
         - [] Implementar enrutamiento dinámico para mostrar detalles específicos en función de la URL solicitada.
